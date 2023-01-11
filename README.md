@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @marnogue
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on <a href="https://www.linkedin.com/in/mariana-nogueira-a60813220/" target="_blank">Linkedin</a>
+# Oi, minha gente! :sunny:	
 
-<!---
-marnogue/marnogue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Mariana, moro no interior da Bahia e sou uma Dev Sandy em formação. :dancer:
+
+
+Atualmente estudando Desenvolvimento Web Fullstack, mas já sinto o coração pulsar pelo **Back-end**. Criei esse perfil para compartilhar meus projetos pessoais.
+
+:computer: Hard Skills
+
+1. HTML
+2. CSS
+3. Node.Js
+4. DOM
+5. API Rest
+
+Se conecte comigo:
+
+[![texto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/marinogueira/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marnogue&layout=compact)](https://github.com/marnogue/github-readme-stats)
