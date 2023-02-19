@@ -10,8 +10,8 @@ Atualmente estudando Desenvolvimento Web Fullstack, mas já sinto o coração pu
 1. HTML
 2. CSS
 3. Node.Js
-4. DOM
-5. API Rest
+4. API Rest
+5. React
 
 Se conecte comigo:
 
