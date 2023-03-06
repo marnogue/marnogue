@@ -3,7 +3,7 @@
 Meu nome é Mariana, moro no interior da Bahia e sou uma Dev Sandy em formação. :dancer:
 
 
-Atualmente estudando Desenvolvimento Web Fullstack, mas já sinto o coração pulsar pelo **Back-end**. Criei esse perfil para compartilhar meus projetos pessoais.
+Atualmente estudando Desenvolvimento Web Fullstack na Cubos Academy, mas já sinto o coração pulsar pelo **Back-end**. Criei esse perfil para compartilhar estudos e meus projetos pessoais.
 
 :computer: Hard Skills
 
