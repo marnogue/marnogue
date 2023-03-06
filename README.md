@@ -12,6 +12,7 @@ Atualmente estudando Desenvolvimento Web Fullstack, mas já sinto o coração pu
 3. Node.Js
 4. API Rest
 5. React
+6. PostgreSQL
 
 Se conecte comigo:
 
