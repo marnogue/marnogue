@@ -1,9 +1,9 @@
-# Oi, minha gente! :sunny:	
+# Oi, oi! :sunny:	
 
 Meu nome é Mariana, moro no interior da Bahia e sou uma Dev Sandy em formação. :dancer:
 
 
-Atualmente estudando Desenvolvimento Web Fullstack na Cubos Academy, mas já sinto o coração pulsar pelo **Back-end**. Criei esse perfil para compartilhar estudos e meus projetos pessoais.
+Estudei Desenvolvimento Web Fullstack na Cubos Academy, mas já sinto o coração pulsar pelo **Back-end**. Criei esse perfil para compartilhar estudos e meus projetos pessoais.
 
 :computer: Hard Skills
 
